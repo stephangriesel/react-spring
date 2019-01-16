@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Component1 from './components/Component1';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>Hello</h1>
+        <Component1 />
       </div>
     );
   }
