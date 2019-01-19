@@ -38,7 +38,7 @@ export default function Component1() {
 }
 
 const c1Style = {
-  background: "#919999",
+  background: "#111",
   color: "#FFFFFF",
   padding: "1.5rem"
 };
